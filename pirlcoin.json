@@ -308,5 +308,15 @@
 		"miners":"https://pirl.pool.sexy/api/miners",
 		"url":"pirl.pool.sexy",
 		"notify":""
+	},
+	{
+		"name":"WeeMinePool.com",
+		"stats":"http://pirl.weeminepool.com/api/stats",
+		"blocks":"https://pirl.weeminepool.com/api/blocks",
+		"payments":"https://pirl.weeminepool.com/api/payments",
+		"accounts":"https://pirl.weeminepool.com/api/accounts",
+		"miners":"https://pirl.weeminepool.com/api/miners",
+		"url":"pirl.weeminepool.com",
+		"notify":""
 	}
 ]
